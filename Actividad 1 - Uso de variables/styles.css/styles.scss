@@ -1,0 +1,45 @@
+
+$color-heading1:#CC4542;
+$color-heading2: #CF4046;
+$color-heading3: #CB413E;
+$color-heading4: #D24349;
+$color-body: #EEE8D6;
+$font-Roboto: 'Roboto',sans-serif;
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.8rem;
+    font-family: $font-Roboto;
+    color: #022933;
+    background-color: $color-body;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: $color-heading1;
+}
+
+h2 {
+    color: $color-heading2;
+    font-size: 1.9rem;
+}
+
+h3 {
+    color: $color-heading3;
+    font-size: 1.8rem;
+}
+
+h4 {
+    color: $color-heading4;
+    font-size: 1.7rem;
+}

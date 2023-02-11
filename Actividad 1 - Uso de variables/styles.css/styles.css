@@ -1,0 +1,36 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.8rem;
+  font-family: "Roboto", sans-serif;
+  color: #022933;
+  background-color: #EEE8D6;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #CC4542;
+}
+
+h2 {
+  color: #CF4046;
+  font-size: 1.9rem;
+}
+
+h3 {
+  color: #CB413E;
+  font-size: 1.8rem;
+}
+
+h4 {
+  color: #D24349;
+  font-size: 1.7rem;
+}
